@@ -1,5 +1,4 @@
 ## 👋 Hi y'all, I'm Hayden Rome!
-___
 - 📚 I'm currently a CS masters student at MIT.
 - 🎓 I graduated from MIT in 2022 with a double major in math and CS.
 - 👀 I’m interested in complexity theory, cryptography, and quantum computing.
