@@ -21,7 +21,7 @@
 
 <p>
 <img alt="Hayden's github stats" src="https://github-readme-stats.vercel.app/api?username=hrome13&show_icons=true&theme=merko"  >
-  <br>
-<img alt="Hayden's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrome13&theme=merko"  >
+<!--   <br>
+<img alt="Hayden's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrome13&theme=merko"  > -->
   
 </p>
