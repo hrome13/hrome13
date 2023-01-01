@@ -1,5 +1,5 @@
 ## 👋 Hi y'all, I'm Hayden Rome!
-- 📚 I'm currently a CS masters student at MIT.
+- 📚 I'm currently a CS masters student at MIT, working with the [FutureTech](https://futuretech.mit.edu/) group.
 - 🎓 I graduated from MIT in 2022 with a double major in math and CS.
 - 👀 I’m interested in cryptography, quantum computing, and complexity theory.
 - 🌱 I’m currently learning applied cryptography.
