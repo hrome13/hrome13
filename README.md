@@ -1,9 +1,9 @@
 ## 👋 Hi y'all, I'm Hayden Rome!
-- 📚 I'm currently a CS masters student at MIT, working with the [FutureTech](https://futuretech.mit.edu/) group.
+- 📚 I'm currently a CS Masters student at MIT, working with the [FutureTech](https://futuretech.mit.edu/) group.
 - 🎓 I graduated from MIT in 2022 with a double major in math and CS.
 - 👀 I’m interested in cryptography, quantum computing, and complexity theory.
 - 🌱 I’m currently learning about applied cryptography and the theory behind it.
-- 💼 I’m looking to for a full-time software engineering role with a 2023 spring start-date.
+- 💼 I’ve signed on to join BAE Systems after completing my Masters as a Software Engineer.
 
 ### Find Me Here!
 
