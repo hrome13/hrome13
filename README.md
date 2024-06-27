@@ -3,7 +3,6 @@
 - 📚 I completed my CS Masters at MIT in 2023, working with the [FutureTech](https://futuretech.mit.edu/) group.
 - 🎓 I graduated from MIT in 2022 with a double major in math and CS.
 - 👀 I’m interested in cryptography, quantum computing, and complexity theory.
-- 🌱 I’m currently learning about applied cryptography and the theory behind it.
 
 ### Find Me Here!
 
